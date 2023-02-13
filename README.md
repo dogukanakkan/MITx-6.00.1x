@@ -1,6 +1,4 @@
- Problem 3 - Using Bisection Search to Make the Program Faster
 
-# (20/20 points)
 # You'll notice that in Problem 2, your monthly payment had to be a multiple of $10. Why did we make it that way? You can try running
 # your code locally so that the payment can be any dollar and cent amount (in other words, the monthly payment is a multiple of $0.01).
 # Does your code still work? It should, but you may notice that your code runs more slowly, especially in cases with very large balances
